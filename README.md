@@ -1,1 +1,1 @@
-# smart-waste-dashboard
+# Smart City Dashboard for Smart Waste Bin Monitoring
